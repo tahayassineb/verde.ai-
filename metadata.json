@@ -1,0 +1,5 @@
+{
+  "name": "verde.ai",
+  "description": "A comprehensive platform for managing WhatsApp marketing campaigns, sessions, and real-time monitoring using Supabase and n8n.",
+  "requestFramePermissions": []
+}
